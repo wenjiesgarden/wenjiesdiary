@@ -1,0 +1,11 @@
+/*filepath: /Users/aliciawenjie/Documents/Programs/website/style.css*/
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:aliceblue;
+    color:darkblue;
+    text-align:center;
+    padding:20px;
+}
+h1 {
+    color:#007acc;
+}
